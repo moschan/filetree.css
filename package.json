@@ -1,0 +1,23 @@
+{
+  "name": "filetree-css",
+  "version": "0.0.1",
+  "description": "Implement function and style of file tree view using CSS only. No JavaScript.",
+  "main": "firetree.css",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moschan/filetree.css.git"
+  },
+  "keywords": [
+    "css",
+    "filetree"
+  ],
+  "author": "moschan <kaityo02＠gmail.com> (http://moschan.com/blog)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moschan/filetree.css/issues"
+  },
+  "homepage": "https://github.com/moschan/filetree.css#readme"
+}
