@@ -2,29 +2,34 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>firetree.css Demo</title>
-  <link rel="stylesheet" href="../firetree.css">
+  <title>filetree.css Demo</title>
+  <link rel="stylesheet" href="../filetree.css">
 </head>
 <body>
-  <h1>firetree.css Demo</h1>
-  <ul class="firetree">
+  <h1>filetree.css Demo</h1>
+  <ul class="filetree">
     <li>
-      <input type="checkbox">
+      <input type="checkbox" id="level1-1">
+      <label for="level1-1">js</label>
       <ul>
-        <li>01</li>
-        <li>02</li>
-        <li>03</li>
-        <li>04</li>
-        <li>05</li>
+        <li>
+          <input type="checkbox" id="level2-1">
+          <label for="level2-1">lib</label>
+          <ul>
+            <li>some.js</li>
+            <li>any.js</li>
+          </ul>
+        </li>
+        <li>my.js</li>
+        <li>core.js</li>
       </ul>
     </li>
     <li><input type="checkbox">
+      <input type="checkbox" id="level1-2">
+      <label for="level1-2">css</label>
       <ul>
-        <li>01</li>
-        <li>02</li>
-        <li>03</li>
-        <li>04</li>
-        <li>05</li>
+        <li>my.css</li>
+        <li>core.css</li>
       </ul>
     </li>
   </ul>

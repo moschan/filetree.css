@@ -1,8 +1,0 @@
-.firetree ul {
-  display: none;
-}
-
-.firetree > li > input:checked + ul {
-  display: block;
-}
-

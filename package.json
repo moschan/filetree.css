@@ -1,8 +1,14 @@
 {
   "name": "filetree-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Implement function and style of file tree view using CSS only. No JavaScript.",
-  "main": "firetree.css",
+  "main": "filetree.css",
+  "files": [
+    "README.md",
+    "filetree.css",
+    "package.json",
+    "icon/sprite"
+  ],
   "scripts": {
     "test": "npm test"
   },
