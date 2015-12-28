@@ -1,11 +1,13 @@
 # filetree.css
-Implement function and style of file tree view using CSS only. No JavaScript.
+Implement function and style of file tree view using CSS only. **No JavaScript**.
 
 [![NPM](https://nodei.co/npm/filetree-css.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/filetree-css/)
 
-<h1 align="center">
-  <img src="./doc/demo.gif" alt="demo giff">
-</h1>
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
+[![npm](https://img.shields.io/npm/l/express.svg)]()
+
+
+![demo](./doc/demo.gif)
 
 # Installation
 
