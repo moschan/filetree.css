@@ -12,13 +12,13 @@ Implement function and style of file tree view using CSS only. No JavaScript.
 in Cli
 
 ```
-npm i firetree-css --save
+npm i filetree-css --save
 ```
 
 in HTML
 
 ```
-<link rel="stylesheet" href="./node_modules/firetree-css/filetree.css">
+<link rel="stylesheet" href="./node_modules/filetree-css/filetree.css">
 ```
 
 
